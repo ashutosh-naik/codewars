@@ -1,1 +1,1 @@
-# codewars-colution
+# codewars-solution
